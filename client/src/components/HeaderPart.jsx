@@ -6,7 +6,6 @@ import headerdata from "../api/header.json";
 
 function HeaderPart() {
   const settings = {
-    dots: true,
     infinite: true,
     slidesToShow: 1,
     slidesToScroll: 1,
@@ -17,13 +16,13 @@ function HeaderPart() {
   };
 
   return (
-    <div className="w-full h-auto">
+    <div className="w-full relative h-auto">
       <div className="slider-container w-full h-full">
         <Slider {...settings}>
           {headerdata.map((item) => (
-            <div className="w-full h-[25vh] md:h-[45vh] " key={item.id}>
+            <div className="w-full h-[25vh] md:h-[60vh] " key={item.id}>
               <img
-                className="w-full h-full object-cover object-center"
+                className="w-full h-full object-cover"
                 src={item.image}
                 alt="all image name"
               />

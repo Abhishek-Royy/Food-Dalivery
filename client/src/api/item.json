@@ -1,0 +1,285 @@
+[
+    {
+        "_id":1,
+        "name":"Laccha Paratha",
+        "image":"https://myfoodstory.com/wp-content/uploads/2022/08/Homemade-Lachha-Paratha-3.jpg",
+        "desc":"lachha paratha recipe | lachha parantha recipe with detailed photo and video recipe. basically, a multi layered indian flat bread prepared with wheat and plain flour.",
+        "category":"Paratha"
+    },
+    {
+        "_id":2,
+        "name":"Aloo Paratha",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Aloo_Paratha_also_known_as_Batatay_Jo_Phulko.jpg/640px-Aloo_Paratha_also_known_as_Batatay_Jo_Phulko.jpg",
+        "desc":"lachha paratha recipe | lachha parantha recipe with detailed photo and video recipe. basically, a multi layered indian flat bread prepared with wheat and plain flour.",
+        "category":"Paratha"
+    },
+    {
+        "_id":3,
+        "name":"Paneer Paratha",
+        "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2023/02/paneer-paratha-recipe.jpg",
+        "desc":"lachha paratha recipe | lachha parantha recipe with detailed photo and video recipe. basically, a multi layered indian flat bread prepared with wheat and plain flour.",
+        "category":"Paratha"
+    },
+    {
+        "_id":4,
+        "name":"Gobi Paratha",
+        "image":"https://www.ruchiskitchen.com/wp-content/uploads/2015/10/gobi-paratha-recipe-1-500x500.jpg",
+        "desc":"lachha paratha recipe | lachha parantha recipe with detailed photo and video recipe. basically, a multi layered indian flat bread prepared with wheat and plain flour.",
+        "category":"Paratha"
+    },
+    {
+        "_id":5,
+        "name":"Tandoori roti",
+        "image":"https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/14423167232KIe8WnTzK_thumb.jpeg",
+        "desc":"lachha paratha recipe | lachha parantha recipe with detailed photo and video recipe. basically, a multi layered indian flat bread prepared with wheat and plain flour.",
+        "category":"Paratha"
+    },
+    {
+        "_id":6,
+        "name":"Butter Naan",
+        "image":"https://foodess.com/wp-content/uploads/2023/02/Butter-Naan-3.jpg",
+        "desc":"lachha paratha recipe | lachha parantha recipe with detailed photo and video recipe. basically, a multi layered indian flat bread prepared with wheat and plain flour.",
+        "category":"Paratha"
+    },
+    {
+        "_id":7,
+        "name":"Haldiram Special Paratha",
+        "image":"https://i1.wp.com/wp-backend.thefearlesscooking.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-23-at-2.29.31-PM.jpeg?fit=1600%2C1122&ssl=1",
+        "desc":"lachha paratha recipe | lachha parantha recipe with detailed photo and video recipe. basically, a multi layered indian flat bread prepared with wheat and plain flour.",
+        "category":"Paratha"
+    },
+    {
+        "_id":8,
+        "name":"Pasta Salad",
+        "image":"https://www.eatingonadime.com/wp-content/uploads/2021/03/EasyPastaSaladLR-12-1.jpg",
+        "desc":"A salad is a dish consisting of mixed ingredients, frequently vegetables. They are typically served chilled or at room temperature, though some can be.These easy salad recipes are perfect for lunches, summer cookouts, and dinner parties! Healthy and delicious, each one can double as",
+        "category":"Salad"
+    },
+    {
+        "_id":9,
+        "name":"Italian Salad",
+        "image":"https://images.themodernproper.com/billowy-turkey/production/posts/2019/Easy-italian-salad-recipe-10.jpg?w=1200&h=1200&q=60&fm=jpg&fit=crop&crop=focalpoint&fp-x=0.5019&fp-y=0.3986&dm=1674525642&s=16165cf49adced49182bfc0d9d62afbf",
+        "desc":"A salad is a dish consisting of mixed ingredients, frequently vegetables. They are typically served chilled or at room temperature, though some can be.These easy salad recipes are perfect for lunches, summer cookouts, and dinner parties! Healthy and delicious, each one can double as",
+        "category":"Salad"
+    },
+    {
+        "_id":10,
+        "name":"Raita Salad",
+        "image":"https://code2cook.com/wp-content/uploads/2020/05/Indian-Cucumber-Tomato-Raita.jpg",
+        "desc":"A salad is a dish consisting of mixed ingredients, frequently vegetables. They are typically served chilled or at room temperature, though some can be.These easy salad recipes are perfect for lunches, summer cookouts, and dinner parties! Healthy and delicious, each one can double as",
+        "category":"Salad"
+    },
+    {
+        "_id":11,
+        "name":"Green Salad",
+        "image":"https://cdn.loveandlemons.com/wp-content/uploads/2021/04/green-salad.jpg",
+        "desc":"A salad is a dish consisting of mixed ingredients, frequently vegetables. They are typically served chilled or at room temperature, though some can be.These easy salad recipes are perfect for lunches, summer cookouts, and dinner parties! Healthy and delicious, each one can double as",
+        "category":"Salad"
+    },
+    {
+        "_id":12,
+        "name":"Fruit Salad",
+        "image":"https://healthyfitnessmeals.com/wp-content/uploads/2022/05/Fruit-salad-recipe-3.jpg",
+        "desc":"A salad is a dish consisting of mixed ingredients, frequently vegetables. They are typically served chilled or at room temperature, though some can be.These easy salad recipes are perfect for lunches, summer cookouts, and dinner parties! Healthy and delicious, each one can double as",
+        "category":"Salad"
+    },
+    {
+        "_id":13,
+        "name":"Veg Burger",
+        "image":"https://www.cookwithmanali.com/wp-content/uploads/2018/05/Vegetarian-Burger-Indian-500x500.jpg",
+        "desc":" Though burgers provide protein and other nutrients, they're not seen as a healthy food option. That's because they're high in saturated fat and cholesterol. They're also often bundled with sodas and french fries, which contain large amounts of sugar and saturated fats.",
+        "category":"Burger"
+    },
+    
+    {
+        "_id":14,
+        "name":"Crispy Chiken Burger",
+        "image":"https://www.thecookingcollective.com.au/wp-content/uploads/2022/04/a-finished-crispy-chicken-burger-on-a-wooden-board.jpg",
+        "desc":" Though burgers provide protein and other nutrients, they're not seen as a healthy food option. That's because they're high in saturated fat and cholesterol. They're also often bundled with sodas and french fries, which contain large amounts of sugar and saturated fats.",
+        "category":"Burger"
+    },
+    {
+        "_id":15,
+        "name":"Mutton Burger",
+        "image":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/8/24/MW1312-molly-yeh-lions-head-meatball-burgers_s4x3.jpg.rend.hgtvcom.616.462.suffix/1692910539292.jpeg",
+        "desc":" Though burgers provide protein and other nutrients, they're not seen as a healthy food option. That's because they're high in saturated fat and cholesterol. They're also often bundled with sodas and french fries, which contain large amounts of sugar and saturated fats.",
+        "category":"Burger"
+    },
+    {
+        "_id":16,
+        "name":"Egg Burger",
+        "image":"https://theheirloompantry.co/wp-content/uploads/2022/07/fried-egg-burger-the-heirloom-pantry-2.jpg",
+        "desc":" Though burgers provide protein and other nutrients, they're not seen as a healthy food option. That's because they're high in saturated fat and cholesterol. They're also often bundled with sodas and french fries, which contain large amounts of sugar and saturated fats.",
+        "category":"Burger"
+    },
+    {
+        "_id":17,
+        "name":"Fruit Burger",
+        "image":"https://img.freepik.com/premium-photo/burger-with-fruit-it-word-burger-side_853177-11286.jpg",
+        "desc":" Though burgers provide protein and other nutrients, they're not seen as a healthy food option. That's because they're high in saturated fat and cholesterol. They're also often bundled with sodas and french fries, which contain large amounts of sugar and saturated fats.",
+        "category":"Burger"
+    },
+    {
+        "_id":18,
+        "name":"Cheese Burger",
+        "image":"https://images.immediate.co.uk/production/volatile/sites/2/2020/04/Cheeseburger-74e8cde.jpg",
+        "desc":" Though burgers provide protein and other nutrients, they're not seen as a healthy food option. That's because they're high in saturated fat and cholesterol. They're also often bundled with sodas and french fries, which contain large amounts of sugar and saturated fats.",
+        "category":"Burger"
+    },
+    {
+        "_id":19,
+        "name":"Masala Dosa",
+        "image":"https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa.jpg",
+        "desc":"A dosa is a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground white gram and rice. Dosas are served hot, often with chutney",
+        "category":"Dosa"
+    },
+    {
+        "_id":20,
+        "name":"Butter Dosa",
+        "image":"https://www.nandanmsd.com/wp-content/uploads/2020/08/BUTTER-SADA-DOSA.png",
+        "desc":"A dosa is a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground white gram and rice. Dosas are served hot, often with chutney",
+        "category":"Dosa"
+    },
+    {
+        "_id":21,
+        "name":"Chiken Dosa",
+        "image":"https://www.nandanmsd.com/wp-content/uploads/2020/08/BUTTER-SADA-DOSA.png",
+        "desc":"A dosa is a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground white gram and rice. Dosas are served hot, often with chutney",
+        "category":"Dosa"
+    },
+    {
+        "_id":22,
+        "name":"Jambo Dosa",
+        "image":"https://im.whatshot.in/img/2019/Jan/img-20190103-165746-bokeh-cropped-1546857343.jpg",
+        "desc":"A dosa is a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground white gram and rice. Dosas are served hot, often with chutney",
+        "category":"Dosa"
+    },
+    {
+        "_id":23,
+        "name":"Veg Sandwich",
+        "image":"https://www.kewpie.com.my/sites/default/files/styles/wide/public/content/recipe/img/2021-08/20190513161957_20171010145129_01.jpg?itok=W0tFzgQr",
+        "desc":"A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more, sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more",
+        "category":"Sandwich"
+    },
+    {
+        "_id":24,
+        "name":"Chiken Sandwich",
+        "image":"https://www.eatingwell.com/thmb/lWAiwknQ9yapq6UuXAYrUdrcKbk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Rotisserie-Chicken-Sandwich-202-2000-485b673fe411460e95b512fbf805a5d9.jpg",
+        "desc":"A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more, sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more",
+        "category":"Sandwich"
+    },
+    {
+        "_id":25,
+        "name":"Mutton Sandwich",
+        "image":"https://i0.wp.com/www.fatimasfabulouskitchen.com/wp-content/uploads/2018/03/sandwich.jpg?resize=700%2C466&ssl=1",
+        "desc":"A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more, sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more",
+        "category":"Sandwich"
+    },
+    {
+        "_id":26,
+        "name":"Cheese Sandwich",
+        "image":"https://static.toiimg.com/photo/60256016.cms",
+        "desc":"A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more, sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more",
+        "category":"Sandwich"
+    },
+    {
+        "_id":27,
+        "name":"Egg Sandwich",
+        "image":"https://static.toiimg.com/thumb/60018142.cms?width=1200&height=900",
+        "desc":"A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more, sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more",
+        "category":"Sandwich"
+    },
+    {
+        "_id":28,
+        "name":"Veg Momo",
+        "image":"https://www.bigbasket.com/media/uploads/recipe/w-l/3506_2_1.jpg",
+        "desc":"Momos are a type of steamed filled dumpling in Tibetan and Nepali cuisine that is also popular in neighbouring Bhutan and India. Momos are usually served",
+        "category":"Momo"
+    },
+    {
+        "_id":29,
+        "name":"Chiken Momo",
+        "image":"https://recipes.net/wp-content/uploads/2023/07/chicken-momos-with-nepalese-roasted-tomato-chutney_f1606f3c408967ba30be7bca1a885349.jpeg",
+        "desc":"Momos are a type of steamed filled dumpling in Tibetan and Nepali cuisine that is also popular in neighbouring Bhutan and India. Momos are usually served",
+        "category":"Momo"
+    },
+    
+    {
+        "_id":29,
+        "name":"Cheese Momo",
+        "image":"https://storeassets.im-cdn.com/temp/cuploads/ap-south-1%3Aabd0d01f-2fd7-4231-8a23-b7b68eaf18de/bakasurmomos/products/1637915686414Veg-Fried-Cheese-Momos.jpg",
+        "desc":"Momos are a type of steamed filled dumpling in Tibetan and Nepali cuisine that is also popular in neighbouring Bhutan and India. Momos are usually served",
+        "category":"Momo"
+    },
+    {
+        "_id":30,
+        "name":"Gandharaj Momo",
+        "image":"https://5.imimg.com/data5/SELLER/Default/2023/1/WW/FV/FV/36857741/veg-gandharaj-momo.jpg",
+        "desc":"Momos are a type of steamed filled dumpling in Tibetan and Nepali cuisine that is also popular in neighbouring Bhutan and India. Momos are usually served",
+        "category":"Momo"
+    },
+    {
+        "_id":31,
+        "name":"Panfried Momo",
+        "image":"https://i1.wp.com/www.funloveandcooking.com/wp-content/uploads/2015/08/Pan-Fried-Chicken-Dumplings-Momo-funloveandcooking.com_.jpg-feature.jpg?fit=680%2C453&ssl=1",
+        "desc":"Momos are a type of steamed filled dumpling in Tibetan and Nepali cuisine that is also popular in neighbouring Bhutan and India. Momos are usually served",
+        "category":"Momo"
+    },
+    {
+        "_id":32,
+        "name":"Veg Chowmin",
+        "image":" https://foodwithfeeling.com/wp-content/uploads/2022/04/vegetable-chow-mein-10.jpg",
+        "desc":"Chow mein is a dish of Chinese stir-fried noodles with vegetables and sometimes meat or tofu. Over the centuries, variations of chǎomiàn were developed in.",
+        "category":"Chowmin"
+    },
+    {
+        "_id":33,
+        "name":"Egg Chowmin",
+        "image":" https://i.ytimg.com/vi/7wIMaLJvL0U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBD5qKTNkuK7__8awcvxZneoIFEIw",
+        "desc":"Chow mein is a dish of Chinese stir-fried noodles with vegetables and sometimes meat or tofu. Over the centuries, variations of chǎomiàn were developed in.",
+        "category":"Chowmin"
+    },
+    {
+        "_id":33,
+        "name":"Paneer Chowmin",
+        "image":" https://i.ytimg.com/vi/rcR1owkn9s8/maxresdefault.jpg",
+        "desc":"Chow mein is a dish of Chinese stir-fried noodles with vegetables and sometimes meat or tofu. Over the centuries, variations of chǎomiàn were developed in.",
+        "category":"Chowmin"
+    },
+    {
+        "_id":34,
+        "name":"Mix Chowmin",
+        "image":"https://i.ytimg.com/vi/lllTDfYyEfI/sddefault.jpg",
+        "desc":"Chow mein is a dish of Chinese stir-fried noodles with vegetables and sometimes meat or tofu. Over the centuries, variations of chǎomiàn were developed in.",
+        "category":"Chowmin"
+    },
+    {
+        "_id":35,
+        "name":"Mango Juice",
+        "image":"https://vaya.in/recipes/wp-content/uploads/2018/02/mango-frooti.jpg",
+        "desc":"Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are.",
+        "category":"Juice"
+    },
+    {
+        "_id":36,
+        "name":"Apple Juice",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoVIEV_okKeqDwg1_J_jpLVwIV4oc-H7anBooGBIr5lA&s",
+        "desc":"Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are.",
+        "category":"Juice"
+    },
+    {
+        "_id":37,
+        "name":"Lassi",
+        "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/lassi-recipe.jpg",
+        "desc":"Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are.",
+        "category":"Juice"
+    },
+    {
+        "_id":38,
+        "name":"Lassi",
+        "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/lassi-recipe.jpg",
+        "desc":"Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are.",
+        "category":"Juice"
+    },
+    
+]

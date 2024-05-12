@@ -22,7 +22,7 @@ const Navbar = () => {
 
   return (
     <div
-      className="bg-[#ffffff] flex justify-between items-center h-20 max-w-full sticky top-0 mx-auto px-10 text-black"
+      className="bg-[#ffffff] flex justify-between items-center z-0 h-20 max-w-full sticky top-0 mx-auto px-10 text-black"
       style={{ boxShadow: "rgba(0, 0, 0, 0.35) 0px 5px 15px" }}
     >
       <img className="w-20" src={webLogo} alt="Web-logo" />{" "}
